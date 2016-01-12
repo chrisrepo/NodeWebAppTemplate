@@ -1,5 +1,5 @@
-# CC-Web-App
-Campus Connect Web Application
+# NodeWebAppTemplate
+Node.js web application
 
 ### Standalone web app using Node.js along with express and mongoDB.
 
